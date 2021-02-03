@@ -5,4 +5,4 @@ var jose = {
     peso: 85
 }
 
-console.log(`Al inicio del año ${jose.nombre} pesa ${jose.peso} kgs.`)
+console.log(`Al inicio del año ${jose.nombre} pesa ${jose.peso} kgs.`);
